@@ -7,7 +7,6 @@ order: 1
 
 ## Chronology
 
-
 ## Variations
 
 ## Supporting reports and other sources
