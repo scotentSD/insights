@@ -26,8 +26,6 @@ There were also quite a lot of people who were stung following previous advice, 
 - There is a high degree of variability between sectors
 - Sectors such a Food & Drink have highly integrated Vertical Supply chains, ofte within Europe. Ability to Import Ingredients and then Export finished products back to Europe is critical.
 
-
-
 ## Supporting reports and other sources
 
 ## Tags (keywords)
