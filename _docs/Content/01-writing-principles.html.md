@@ -1,12 +1,12 @@
 ---
-title: Key writing principles
-category: Guidelines
+title: Insight 1
+category: Insights
 order: 1
 ---
 
 **Always put the user first**
 
-When you’re writing content, focus on what the user needs to know – not what we want to tell them. And always refer to the user as ‘you’. If you find that you're using 'we' much more than 'you', then the content is probably not focused enough on the user. Instead of saying 'We built the network to help businesses in Scotland find international contacts', say something like 'If your business is based in Scotland, you can use the network to find international contacts'. 
+When you’re writing content, focus on what the user needs to know – not what we want to tell them. And always refer to the user as ‘you’. If you find that you're using 'we' much more than 'you', then the content is probably not focused enough on the user. Instead of saying 'We built the network to help businesses in Scotland find international contacts', say something like 'If your business is based in Scotland, you can use the network to find international contacts'.
 
 **Ask questions**
 

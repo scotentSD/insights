@@ -1,6 +1,6 @@
 ---
-title: Using plain English
-category: Guidelines
+title: Insight 2
+category: Insights
 order: 2
 ---
 
