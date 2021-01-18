@@ -10,15 +10,15 @@ show_full_navigation: true
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Scottish Enterprise Content Style Guide.
+description: Scottish Enterprise Research Insights.
 author:
   name:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: SE StyleGuide
+  name: Insights
   links:
-    - https://github.com/scotentSD/content-style-guide
+    - https://github.com/scotentSD/insights
 
 # -----
 # Build
