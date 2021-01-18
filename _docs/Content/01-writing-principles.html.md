@@ -3,17 +3,15 @@ title: Insight 1
 category: Insights
 order: 1
 ---
+## Summary
+
+## Chronology
 
 
-## summary
-
-## chronology
+## Variations
 
 
-## variations
+## Supporting reports and other sources
 
 
-## supporting reports and other sources
-
-
-## tags (keywords)
+## Tags (keywords)
