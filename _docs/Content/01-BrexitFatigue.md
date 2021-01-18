@@ -29,7 +29,7 @@ There were also quite a lot of people who were stung following previous advice, 
 ## Supporting reports and other sources
 
 ## Tags (keywords)
-Brexit
-Europe
-2020
-2019
+- Brexit
+- Europe
+- 2020
+- 2019
