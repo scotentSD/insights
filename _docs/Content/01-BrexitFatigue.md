@@ -23,7 +23,15 @@ There were also quite a lot of people who were stung following previous advice, 
   - Quite high doubt about Brexit readiness advice from Government sources
 
 ## Variations
+- There is a high degree of variability between sectors
+- Sectors such a Food & Drink have highly integrated Vertical Supply chains, ofte within Europe. Ability to Import Ingredients and then Export finished products back to Europe is critical.
+
+
 
 ## Supporting reports and other sources
 
 ## Tags (keywords)
+Brexit
+Europe
+2020
+2019
