@@ -3,17 +3,13 @@ title: Insight 2
 category: Insights
 order: 2
 ---
+## Summary
+
+## Chronology
 
 
-## summary
+## Variations
 
-## chronology
+## Supporting reports and other sources
 
-
-## variations
-
-
-## supporting reports and other sources
-
-
-## tags (keywords)
+## Tags (keywords)

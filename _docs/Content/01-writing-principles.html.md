@@ -10,8 +10,6 @@ order: 1
 
 ## Variations
 
-
 ## Supporting reports and other sources
-
 
 ## Tags (keywords)
