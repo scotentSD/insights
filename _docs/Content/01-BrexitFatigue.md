@@ -6,7 +6,7 @@ order: 1
 ## Summary
 Over the course of 2020, most companies gradually lost urgency over Brexit.
 Repeated Deadlines and False starts eroded the sense of urgency in them.
-There were also quite a lot of people who were stung following previous advice, and were very cautious about actually actioning any plans.
+There were also quite a lot of people who were stung, following previous advice, and were very cautious about actually actioning any plans.
 
 ## Chronology
 - Mid 2019
