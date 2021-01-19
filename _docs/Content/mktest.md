@@ -1,6 +1,6 @@
 ---
-title: This is a test
-category: New Category
+title: Template
+category: Template
 order: 1
 ---
 
@@ -12,8 +12,8 @@ order: 1
 ###### Heading 6
 
 
-## Normal and Bold Text 
-Normal Text 
+## Normal and Bold Text
+Normal Text
 **Bold Test**
 
 ## Lists
