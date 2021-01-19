@@ -25,7 +25,6 @@ SO
 
 ## Supporting reports and other sources
 
-
 ## Tags (keywords)
 - Covid
 - Office
