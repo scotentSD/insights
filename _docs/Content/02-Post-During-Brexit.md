@@ -1,5 +1,5 @@
 ---
-title: Physical Postage (Letters) during Covid
+title: Physical Postage during Covid
 category: Insights
 order: 2
 ---
