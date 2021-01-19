@@ -10,6 +10,5 @@ In each Insight you will see:
 - Supporting reports and other sources
 - Tags (keywords)
 
-
 ### Using the insights
 They are grouped on the menu but also searchable. The search will look at all text within each Insight
