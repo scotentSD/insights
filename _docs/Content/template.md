@@ -1,5 +1,5 @@
 ---
-title: Template
+title: Template Heading
 category: Template
 order: 1
 ---
