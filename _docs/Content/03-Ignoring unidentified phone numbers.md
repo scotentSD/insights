@@ -1,5 +1,5 @@
 ---
-title: Ignoring 0800 numbers and none CLI numbers
+title: Ignoring 0800 numbers
 category: Insights
 order: 3
 ---
