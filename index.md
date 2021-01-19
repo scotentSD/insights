@@ -1,5 +1,5 @@
 ---
-title: Welcome to the Scottish Enterprise Customer Insights
+title: Insights
 ---
 
 We’ve created a repository of customer Insights that is constantly growing.
