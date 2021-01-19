@@ -16,15 +16,12 @@ SO
 - Messaging to customers and clients was needed to highlight the extra time needed to process and respond to physical artefacts
 - Talking to banks to "increase flexibility to reflect these longer response times and Cash Flow issues" was needed.
 
-
 ## Chronology
 - Banks physically opened and closed throughout 2020
 - Business offices were open and closed throughout 2020
 
-
 ## Variations
 - Local variations exist / existed around physical travel which would impact access to Offices
-
 
 ## Supporting reports and other sources
 
