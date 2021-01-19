@@ -2,7 +2,7 @@
 title: Welcome to the Scottish Enterprise Customer Insights
 ---
 
-We’ve created a set growing repository of customer Insights
+We’ve created a repository of customer Insights that is constantly growing.
 In each Insight you will see:
 - Title
 - Summary
