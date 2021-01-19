@@ -1,7 +1,6 @@
 ---
 title: Insights
 ---
-
 We’ve created a repository of customer Insights, that is constantly growing.
 In each Insight you will see:
 - Title
