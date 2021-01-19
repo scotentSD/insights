@@ -5,9 +5,10 @@ order: 2
 ---
 ## Summary
 During Covid, businesses may experience issues with handling "Physical Post"
-- Stuff is still addressed to offices
+- Letters and Parcels are still addressed to offices
 - Offices have periods of being unmanned
 - You can't hand out employees home addresses
+- Having physical Post collected shares the same issues
 
 SO
 - Some staff could visit offices in "managed ways" periodically
