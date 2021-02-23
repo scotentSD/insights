@@ -5,7 +5,9 @@ order: 1
 ---
 ## Summary
 - People are quite used to doing stuff online now
+  
 BUT
+
 - They usually want to download a **Backup Version** of anything that they submit. This is viewed as a "backup copy or evidence" that won't get lost. 
 - **It raises Trust when our systems do this**
 
