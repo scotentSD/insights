@@ -11,10 +11,8 @@ BUT
 - They usually want to download a **Backup Version** of anything that they submit. This is viewed as a "backup copy or evidence" that won't get lost. 
 - **It raises Trust when our systems do this**
 
-
 ## Chronology
 - Constantly observed over the last few years
-
 
 ## Variations
 - Downlaod a PDF

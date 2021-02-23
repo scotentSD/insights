@@ -13,15 +13,22 @@ order: 3
 
 
 ## Chronology
+
 - Increasing over time
-
-
 
 ## Variations
 
+- 0800
+- 0300
+- Any unknown number
 
 ## Supporting reports and other sources
 
+- This has been expressed over test rounds in 2019, 2020 & 2021
+- Supported by @20 test session mentions
 
 ## Tags (keywords)
+
 - Phone
+- 0800
+- 0300
