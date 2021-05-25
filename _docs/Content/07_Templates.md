@@ -1,9 +1,9 @@
 ---
-title: Customers Formats and Templates
+title: Customers use of Templates during online Applications
 category: Insights
 order: 07
 ---
-## Customers use of Templates during online Applications
+
 ## Summary
 - Customers often ask for Templates as they are unsure what layout/format is required
 - They also want guidance on how to present the information (if not using a template)
