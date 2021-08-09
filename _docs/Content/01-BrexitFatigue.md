@@ -1,6 +1,6 @@
 ---
 title: Brexit Fatigue
-category: Insights
+category: Brexit
 order: 5
 ---
 ## Summary
