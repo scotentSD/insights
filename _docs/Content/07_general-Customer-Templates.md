@@ -1,6 +1,6 @@
 ---
 title: Customers use of Templates during online Applications
-category: Insights
+category: General
 order: 07
 ---
 
@@ -19,9 +19,11 @@ order: 07
 - Customers having an application rejected because of teh wrong format
 
 ## Supporting reports and other sources
-
+Almost all test rounds that contain application processes or other forms
 
 ## Tags (keywords)
+- templates
+- formats
 
 ##  Links
 
