@@ -1,6 +1,6 @@
 ---
 title: Ignoring 0800 numbers
-category: Insights
+category: General
 order: 3
 ---
 ## Summary

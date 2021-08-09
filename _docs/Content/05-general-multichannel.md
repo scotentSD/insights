@@ -1,6 +1,6 @@
 ---
 title: Online is viewed as a precursor to personal contact
-category: Insights
+category: General
 order: 5
 ---
 ## Summary

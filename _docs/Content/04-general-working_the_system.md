@@ -1,6 +1,6 @@
 ---
 title: Working the system
-category: Insights
+category: General
 order: 4
 ---
 ## Summary
