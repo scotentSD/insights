@@ -1,6 +1,6 @@
 ---
 title: Physical Postage during Covid
-category: Insights
+category: Covid
 order: 2
 ---
 ## Summary
