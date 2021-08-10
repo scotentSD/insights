@@ -1,30 +1,29 @@
 ---
 title: We ask for the same information again and again
-![image](https://user-images.githubusercontent.com/84772646/128881389-22cf576a-fd29-42ae-a2f7-a960efe84e1d.png)
-
-category: Template
+category: Organisational Issues
 order: 1
 ---
-## Title
 ## Summary
+
+- We ask for the same info every time someone contacts us or applies for something
+- We sometimes ask for the same info again within a single application process
+
 ## Chronology
+
+In 2020:
+- companies are averaging 2.2 products each where we require them to complete another application form
+- As processes are automated but not yet limked up, there is teh potential for teh situation to worsen before improving
+
 ## Variations
+
+- Account managers sometimes shield customers from this
+ 
+
 ## Supporting reports and other sources
+
+- Advantage Lab outputs
+
 ## Tags (keywords)
+- Repeat
+- Re-use
 
-##  Links
-[The BBC News](https://www.bbc.co.uk/news)
-
-## Blocks of code
-These are blocks where you can put stuff that would usually be interpreted as code
-
-```
-To show a headings
-# Heading 1
-## Heading 2
-### Heading 3
-
-
-To show a link to the bbc
-[The BBC News](https://www.bbc.co.uk/news)
-```
