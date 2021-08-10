@@ -5,7 +5,7 @@ order: 1
 ---
 ## Summary
 - 47% of Small grants and 48% of Large grants go to businesses based in Glasgow, Edinburgh or Aberdeen 
-- These areas house 68% of teh population. 
+- These areas house 68% of the population. 
 - The report that quotes these figures is suggesting that Cities get "More" than there fair share, but a cursory look at stats does not support this. 
 
 ```
@@ -24,3 +24,7 @@ This area needs more attention before any conclusions or opinions are stated on 
 ## Tags (keywords)
 - Location
 - Cities
+
+##Links
+
+- [Scottish Economy](https://www.scottish-enterprise.com/learning-zone/research-and-publications/components-folder/research-and-publications-listings/scottish-economic-statistics)
