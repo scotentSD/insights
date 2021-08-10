@@ -14,15 +14,23 @@ In 2021:
    - We have 29 product guides each of which is circa 8 pages long
 - There are too Many Forms
    - Application forms vary between 4 and 26 pages long
+
 ## Chronology
+
 - Products vary over time but the genral theme holds true
 - Products are in the process of being rationalised during 2021-2022
+
 ## Variations
+
 - Different specialisms may only deal with a subset of these products and be experts in them
 - Opportunity Management means that Opportunity Managers, need to have at least a working knowledge, of all products
+
 ## Supporting reports and other sources
+
 - Advantage Lab findings
+
 ## Tags (keywords)
+
 - Products
 - Complexity
 - Noise
