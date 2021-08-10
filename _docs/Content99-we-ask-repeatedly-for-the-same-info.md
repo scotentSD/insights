@@ -1,5 +1,7 @@
 ---
-title: Template Heading
+title: We ask for the same information again and again
+![image](https://user-images.githubusercontent.com/84772646/128881389-22cf576a-fd29-42ae-a2f7-a960efe84e1d.png)
+
 category: Template
 order: 1
 ---
