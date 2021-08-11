@@ -12,7 +12,7 @@ order: 1
 
 In 2020:
 - companies are averaging 2.2 products each where we require them to complete another application form
-- As processes are automated but not yet limked up, there is teh potential for teh situation to worsen before improving
+- As processes are automated but not yet linked up, there is the potential for the situation to worsen before improving
 
 ## Variations
 
