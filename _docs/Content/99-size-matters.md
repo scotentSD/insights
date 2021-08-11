@@ -1,5 +1,5 @@
 ---
-title: Template Heading
+title: Larger companies, get money easier
 category: Organisational Issues
 order: 1
 ---
