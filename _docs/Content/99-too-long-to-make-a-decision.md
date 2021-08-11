@@ -16,12 +16,12 @@ order: 1
 ## Variations
 
 In 2020 it takes: 
-- 22 Days for Small Grants
-- 32 Days for RSA
-- 53 Days for SMART grants
+- 22 days for Small Grants
+- 32 days for RSA
+- 53 days for SMART grants
 from application to issue of offer
 
-There are also similar insights around how we communicate updates during teh waiting period. 
+There are also similar insights around how we communicate updates during the waiting period. 
 
 ## Supporting reports and other sources
 - Advantage Lab findings
