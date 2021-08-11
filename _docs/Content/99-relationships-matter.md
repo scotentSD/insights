@@ -8,7 +8,7 @@ order: 1
 
 Circa 2020 
 - 90% of small grants went to Account Managed companies
-- Having an SE member of staff to. help, will. increase the likelihood of a company to succesfully: 
+- Having an SE member of staff to help, will increase the likelihood of a company to succesfully: 
   - Hear about relevant support
   - Apply for this support
   - Receive support
@@ -21,7 +21,7 @@ Circa 2020
 
 ## Variations
 
-- Funds with online applications should make support more available to everyone.
+- Funds with online applications should make support more available to everyone
 
 
 ## Supporting reports and other sources

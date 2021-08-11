@@ -8,7 +8,7 @@ order: 1
 - There is a tendancy for SE to give money to larger companies
 
 ## Chronology
-- Previous research has shown that SE gives money to companies that look quite large and cash rich.\
+- Previous research has shown that SE gives money to companies that look quite large and cash rich.
 
 ## Variations
 - Large companies, naturally, can use larger grants
