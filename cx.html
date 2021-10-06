@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>SE Competitor CX Measures</title>
+<script src="https://code.highcharts.com/highcharts.src.js"></script>
+<script src="https://code.highcharts.com/modules/data.js"></script>
+<script src="https://code.highcharts.com/modules/exporting.js"></script>
+</head>
+<body>
+
+<h1>SE Competitor CX Measures</h1>
+<h2>NPS</h2>
+<div id="containerNPS"></div>
+
+<h2>CSAT</h2>
+</h2>
+<div id="containerCSAT"></div>
+
+
+<h2>CES</h2>
+<div id="containerCES"></div>
+
+
+<h2>FCR</h2>
+<div id="containerFCR"></div>
+
+
+<h2>Other</h2>
+<div id="containerOTHER"></div>
+
+
+<script>
+// Create the chart
+Highcharts.chart('containerNPS', {
+chart: {
+    type: 'column'
+  },
+title: {
+    text: 'Net Promoter Score'
+},
+
+data: {
+    googleAPIKey: 'AIzaSyCPAZHUmIUMNUWL5TQuT2Db_w3wvvEAito',
+    googleSpreadsheetKey: '10ilplKLLYGecmUFpmk3JUOjuft7rWL45p8QrU1WeHWQ',
+    error: console.error
+}
+
+});
+
+</script>
+
+<script>
+Highcharts.chart('containerCSAT', {
+    chart: {
+        type: 'column'
+      },
+    title: {
+        text: 'Customer Satisfaction'
+    },
+    
+    data: {
+        googleAPIKey: 'AIzaSyCPAZHUmIUMNUWL5TQuT2Db_w3wvvEAito',
+        googleSpreadsheetKey: '10ilplKLLYGecmUFpmk3JUOjuft7rWL45p8QrU1WeHWQ',
+        googleSpreadsheetRange:'CSAT',
+        error: console.error
+
+    }
+    
+    });
+    
+    </script>
+
+<script>
+    Highcharts.chart('containerCES', {
+        chart: {
+            type: 'column'
+          },
+        title: {
+            text: 'Customer Effort'
+        },
+        
+        data: {
+            googleAPIKey: 'AIzaSyCPAZHUmIUMNUWL5TQuT2Db_w3wvvEAito',
+            googleSpreadsheetKey: '10ilplKLLYGecmUFpmk3JUOjuft7rWL45p8QrU1WeHWQ',
+            googleSpreadsheetRange:'CES',
+            error: console.error
+    
+        }
+        
+        });
+        
+        </script>
+
+<script>
+    Highcharts.chart('containerFCR', {
+        chart: {
+            type: 'column'
+          },
+        title: {
+            text: 'Customer First Contact Resolution'
+        },
+        colors: ['#2f7ed8', '#0d233a', '#8bbc21', '#910000', '#1aadce',
+        '#492970', '#f28f43', '#77a1e5', '#c42525', '#a6c96a'],
+        
+        data: {
+            googleAPIKey: 'AIzaSyCPAZHUmIUMNUWL5TQuT2Db_w3wvvEAito',
+            googleSpreadsheetKey: '10ilplKLLYGecmUFpmk3JUOjuft7rWL45p8QrU1WeHWQ',
+            googleSpreadsheetRange:'FCR',
+            error: console.error
+    
+        }
+        
+        });
+        
+        </script>
+
+
+</body>
+</html>
